@@ -1,0 +1,37 @@
+[
+
+{
+	"name":"charles",
+	"skill":"php",
+	"salary":2000,
+	"image":"about-blank.jpg",
+	"address":{
+		"village":"garovita",
+		"post":"kartikpure",
+		"bangladeshi":true
+	}
+},
+{
+	"name":"dazel",
+	"skill":"java",
+	"salary":9000,
+	"image":"about-blank.jpg",
+	"address":{
+		"village":"garovita",
+		"post":"kartikpure",
+		"bangladeshi":false
+	}
+},
+{
+	"name":"sangma",
+	"skill":"html",
+	"salary":20000,
+	"image":"about.png",
+	"address":{
+		"village":"garovita",
+		"post":"kartikpure",
+		"bangladeshi":true
+	}
+}
+
+]
